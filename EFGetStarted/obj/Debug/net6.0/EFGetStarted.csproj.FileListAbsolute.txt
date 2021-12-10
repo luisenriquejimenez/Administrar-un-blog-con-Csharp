@@ -1,0 +1,5 @@
+C:\Users\LUIS JIMENEZ\Desktop\progV\Administrar un BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.AssemblyReference.cache
+C:\Users\LUIS JIMENEZ\Desktop\progV\Administrar un BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIS JIMENEZ\Desktop\progV\Administrar un BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfoInputs.cache
+C:\Users\LUIS JIMENEZ\Desktop\progV\Administrar un BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.AssemblyInfo.cs
+C:\Users\LUIS JIMENEZ\Desktop\progV\Administrar un BLOG\EFGetStarted\obj\Debug\net6.0\EFGetStarted.csproj.CoreCompileInputs.cache
